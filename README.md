@@ -7,6 +7,8 @@ Reinforcement Algorithms - Policy Gradient, Q Learning, Double Q Learning, Deep 
 
 Both of them are playing like a pro player. Check out the videos below.
 
-[https://youtu.be/tplpUiHNxPU](https://youtu.be/tplpUiHNxPU)
+DQN : [https://youtu.be/tplpUiHNxPU](https://youtu.be/tplpUiHNxPU)
 
-[https://youtu.be/aK_Wrgg5sIM](https://youtu.be/aK_Wrgg5sIM)
+DDQN : [https://youtu.be/aK_Wrgg5sIM](https://youtu.be/aK_Wrgg5sIM)
+
+DDQN is really playing like pro player.
